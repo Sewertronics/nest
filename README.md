@@ -9,7 +9,7 @@ Nest's (soon to be) official CLI to manage your modules
 **INSTALL**
 
 ```sh
-deno install -Af https://nest.land/-/nest/nest.ts
+deno install -Af https://raw.githubusercontent.com/Sewertronics/nest/main/nest.ts
 ```
 
 **PUBLISH**
